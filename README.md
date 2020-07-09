@@ -12,3 +12,5 @@ Futuramente o Scrapper irá:
   6. Exportar o DataFrame (possivelmente para um csv ou xlsx)
   
   No momento os códigos não estão documentados, nem muito organizados, farei isso depois.
+  
+  Código concluído, executado. agora filtrar os dados.
