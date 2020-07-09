@@ -11,4 +11,4 @@ Futuramente o Scrapper irá:
   5. Informar ao usuário qual número da iteração está sendo realizada.
   6. Exportar o DataFrame (possivelmente para um csv ou xlsx)
   
-  No momento os códigos não estão documentados nem muito organizados, farei isso depois.
+  No momento os códigos não estão documentados, nem muito organizados, farei isso depois.
